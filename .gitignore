@@ -1,0 +1,17 @@
+# Ignore the bin directory
+/bin
+/target
+
+# Ignore class files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore other typical files
+*.project
+*.classpath
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
